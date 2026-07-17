@@ -11,7 +11,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/StivenCortes?label=follow&style=social)](https://github.com/StivenCortes) 
 
-- I'm a student at  [Univerisidad Nacional de Colombia](https://www.youtube.com/watch?v=V37xAMOgbLI) 🦉🎓
+- I'm a student at [Univerisidad Nacional de Colombia](https://www.youtube.com/watch?v=V37xAMOgbLI) 🦉🎓
 - I'm from [Tumaco, Colombia](https://www.youtube.com/watch?v=EhhzfU7YB2c)🏝️💡🇨🇴
 - I am learning to program 
 - Lenguage: Python 🐍
